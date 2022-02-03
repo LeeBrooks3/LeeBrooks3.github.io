@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkleebrooks3_github_io=self.webpackChunkleebrooks3_github_io||[]).push([[691],{2494:function(e,l,t){t.r(l);var n=t(7294);l.default=function(){return n.createElement("main",null,n.createElement("h1",{className:""},"Hello, world!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-9fcd50a7b82c88b88ade.js.map
